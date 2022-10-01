@@ -1,3 +1,4 @@
+Contact me on whatsApp: +923097367969
 12 hour clock confusing way to show the time especially when am/pm is not displayed (especially for Swedish users which is supposed to be the main target group for a program like this)
 
 Does not always follow code convention. Eg long lines and periodically missing comments
